@@ -1,6 +1,6 @@
 package org.example
 
-fun main() {
+fun Ejercicio3() {
     val numeros = Array(7){0};
     var positivos:Int = 0;
     var negativos:Int = 0;

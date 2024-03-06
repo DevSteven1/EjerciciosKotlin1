@@ -1,6 +1,6 @@
 package org.example
 
-fun main() {
+fun Ejercicio4() {
     val numeros = Array(4){0};
     var divisibles: Int = 0;
     var noDividisibles: Int = 0;
